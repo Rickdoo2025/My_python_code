@@ -1,0 +1,14 @@
+# Core backend
+fastapi
+uvicorn
+mysql-connector-python
+python-dotenv
+
+# For pretty-printing (optional)
+tabulate
+
+# Frontend (UI)
+streamlit
+pandas
+requests
+boto3
